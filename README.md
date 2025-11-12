@@ -1,2 +1,2 @@
 # vanity-spammer
-cok yakinda mfasız spammer 
+cok yakinda mfa fix spammer
